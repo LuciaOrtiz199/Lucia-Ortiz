@@ -1,0 +1,54 @@
+#menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgb(255, 0, 242)
+}
+
+#menu li{
+    float: left;
+}
+#menu li a{
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none; 
+    color: paleturquoise; 
+}
+#menu li a:hover{
+    padding: 15px 25px 8px;
+    border-bottom: 2px solid white;
+
+}  
+h2{ 
+color: rgb(230, 14, 133);
+text-align: center; 
+font-size: 50px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+#yo{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgb(255, 0, 242)
+}
+
+#yo li{
+    float: left;
+}
+#yo li a{
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none; 
+    color: paleturquoise; 
+}
+#yo li a:hover{
+    padding: 15px 25px 8px;
+    border-bottom: 2px solid white;
+
+}

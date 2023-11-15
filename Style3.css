@@ -1,0 +1,48 @@
+#menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgb(255, 0, 242)
+}
+
+#menu li{
+    float: left;
+}
+#menu li a{
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none; 
+    color: paleturquoise; 
+}
+#menu li a:hover{
+    padding: 15px 25px 8px;
+    border-bottom: 2px solid white;
+}
+
+#Rafaelina{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#Rafaelina li{
+    float: below;
+}
+
+#Rafaelina li a{
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none; 
+    color: rgb(190, 4, 159) 
+}
+
+#Rafaelina li a:hover{
+    padding: 20px 20px 10px;
+    border-bottom: 2px solid rgb(163, 2, 2);
+}
+
+div{
+    text-align: center;
+}

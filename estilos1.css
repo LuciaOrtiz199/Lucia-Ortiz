@@ -1,0 +1,55 @@
+.Ortiz {
+    font-size: 40px;
+    font-family:'Nunito Sans', sans-serif;
+    color: rgb(255, 0, 242);
+    text-align: center;
+}
+
+p {
+    font-size: 40px;
+    font-family:'Nunito Sans', sans-serif;
+    color: rgb(107, 7, 201);
+}
+
+h2{
+    font-size: 40px;
+    font-family:'Nunito Sans', sans-serif;
+    color: rgb(255, 0, 242);
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    border-color:aqua
+    border-style: solid;
+    border-radius: 50%;
+    
+}
+
+#menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgb(255, 0, 242)
+}
+
+#menu li{
+    float: left;
+}
+#menu li a{
+    display: block;
+    padding: 15px 25px;
+    text-decoration: none; 
+    color: paleturquoise; 
+}
+#menu li a:hover{
+    padding: 15px 25px 8px;
+    border-bottom: 2px solid white;
+}

@@ -1,0 +1,50 @@
+.Ortiz {
+    font-size: 40px;
+    font-family:'Nunito Sans', sans-serif;
+    color: rgb(230, 14, 133);
+    text-align: center;
+}
+.Mendez{
+    font-size: 40px;
+    font-family:'Nunito Sans', sans-serif;
+    color: rgb(230, 14, 133);
+    text-align: center;
+}
+
+#Rafaelina{
+    font-size: 40px;
+    font-family:'Nunito Sans', sans-serif;
+    color: rgb(230, 14, 133);
+    text-align: center;
+}
+
+#menu{  
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background: rgb(245, 24, 24)
+    }
+    #menu li{
+        float: left;
+    }
+    #menu li a{
+        display: block;
+        padding: 15px 25px;
+        text-decoration: none; 
+        color: paleturquoise; 
+    }
+    #menu li a:hover{
+        padding: 15px 25px 8px;
+        border-bottom: 2px solid white;
+    }
+    img{
+        border-color:aqua
+        border-style: solid;
+        border-radius: 50%;
+        
+    }
+
+div{
+    text-align: center;
+}
